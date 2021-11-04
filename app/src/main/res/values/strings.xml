@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Componentes</string>
+    <string name="button_01">Clique 01</string>
+    <string name="btn_display">btn_display</string>
+    <string name="toggle_turn_on">tooggle_turn_on</string>
+    <string name="toggle_turn_off">tooggle_turn_on</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="cima">cima</string>
+    <string name="baixo">baixo</string>
+</resources>
